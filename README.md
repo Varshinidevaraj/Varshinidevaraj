@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm VARASHINI DEVARAJ</h1>
+<h1 align="center">Hi , I'm VARSHINI DEVARAJ</h1>
 <h3 align="center"><b>A Passionate Frontend Developer</b></h3>
 
 <h1> About Me</h1><br>
-<h4> I'm currently pursuing a BE in Computer Science & Engineering at Avinashilingam University, driven by my passion for technology and development. I possess strong teamwork and design skills, eager to contribute to innovative projects. </h4>
+<h4> I'm currently pursuing a BE in Computer Science & Engineering at Avinashilingam University, with deep yearning of passion for the technology and development. I possess strong teamwork and design skills, eager to contribute my innovative ideas in projects. </h4>
 
 - I’m currently persuring **Front-end Development**
 
